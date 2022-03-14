@@ -1,0 +1,2 @@
+The concept of Object Oriented programming is presented during this project
+in order to make a simulation game with a simple GUI.
